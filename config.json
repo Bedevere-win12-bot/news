@@ -2,5 +2,7 @@
     "title":"Win12 Online 新闻",
     "subTitle":"社区新闻",
     "avatarUrl":"https://codeberg.org/win12-online/win12/raw/branch/main/icon/logo.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+    "homeUrl":"https://news.win12.tech"
 }
